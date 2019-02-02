@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PingER</string>
+    <string name="ping_text">Ping</string>
+    <string-array name="beacon_list">
+        <item>www.andi.dz</item>
+        <item>waib.gouv.bj</item>
+        <item>www.univ-ouaga.bf</item>
+        <item>www.assemblee.bi</item>
+        <item>www.anor.cm</item>
+    </string-array>
+</resources>
