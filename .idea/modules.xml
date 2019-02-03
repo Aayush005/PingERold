@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PingER.iml" filepath="$PROJECT_DIR$/PingER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PingERold.iml" filepath="$PROJECT_DIR$/PingERold.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
